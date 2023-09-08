@@ -9,7 +9,7 @@ Robot and joints controller: `unitree_controller`, `z1_controller`
 Simulation related: `unitree_gazebo`, `unitree_legged_control`
 
 # Dependencies
-* [ROS](https://www.ros.org/) Melodic or ROS Kinetic or Noetic (has not been tested)
+* [ROS](https://www.ros.org/) Melodic or ROS Kinetic or noetic (has not been tested)
 * [Gazebo8](http://gazebosim.org/)
 * [unitree_legged_msgs](https://github.com/unitreerobotics/unitree_ros_to_real): `unitree_legged_msgs` is a package under [unitree_ros_to_real](https://github.com/unitreerobotics/unitree_ros_to_real).
 # Build
